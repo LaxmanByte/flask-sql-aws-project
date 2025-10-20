@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+venv/
+env/
+*.db
+*.sqlite
+.DS_Store
+
+# Keep these modules LOCAL only
+flask-03-handling-routes-and-if-for/
+flask-04-handling-forms-POST-GET-Methods/
+flask-05-Handling-SQL-with-Flask-Web-Application/
