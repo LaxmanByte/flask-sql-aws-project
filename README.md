@@ -254,12 +254,7 @@ gunicorn -w 4 -b 0.0.0.0:80 jinja:app
 
 ---
 
-## 📖 Additional Resources
 
-- [Flask Official Documentation](https://flask.palletsprojects.com/)
-- [Jinja2 Template Designer Documentation](https://jinja.palletsprojects.com/)
-- [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-- [Real Python - Flask Tutorials](https://realpython.com/tutorials/flask/)
 
 ---
 
