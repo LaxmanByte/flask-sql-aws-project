@@ -5,12 +5,7 @@ A professional project journey — from concept and local dev to cloud productio
 
 ---
 
-## 🔗 Live Demo
 
-Try it live:  
-**http://ec2-35-91-211-143.us-west-2.compute.amazonaws.com/**
-
----
 
 ## 🏗️ Architecture Diagram
 
@@ -410,3 +405,4 @@ This project is open source and available under the MIT License.
 **🚀 From Code to Cloud - A Complete Journey 🚀**
 
 </div>
+
