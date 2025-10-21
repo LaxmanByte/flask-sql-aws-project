@@ -301,14 +301,8 @@ flask-sql-aws-project/
 
 ## 🚀 Future Enhancements
 
-### Phase 1: Production Readiness
-- [ ] Replace Flask dev server with Gunicorn
-- [ ] Add Nginx reverse proxy
-- [ ] Implement SSL/HTTPS
-- [ ] Set up systemd service
-- [ ] Add comprehensive logging
 
-### Phase 2: Feature Expansion
+### : Feature Expansion
 - [ ] Database integration (PostgreSQL/MySQL)
 - [ ] User authentication system
 - [ ] API endpoints (RESTful)
@@ -371,6 +365,7 @@ I built a Flask web application from scratch and deployed it to AWS EC2. The pro
 *Last Updated: October 21, 2025*
 
 **🚀 From Code to Cloud - A Complete Journey 🚀**
+
 
 
 
