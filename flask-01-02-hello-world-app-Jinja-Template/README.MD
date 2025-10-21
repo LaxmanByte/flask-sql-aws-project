@@ -324,10 +324,7 @@ flask-sql-aws-project/
 
 ---
 
-## 💼 Interview Talking Points
-
-### Elevator Pitch
-> "I built a Flask web application from scratch and deployed it to AWS EC2. The project demonstrates full-stack development skills—from Python backend with Jinja2 templates to cloud infrastructure management. I automated deployment using GitHub integration and documented the entire journey including troubleshooting production issues."
+I built a Flask web application from scratch and deployed it to AWS EC2. The project demonstrates full-stack development skills—from Python backend with Jinja2 templates to cloud infrastructure management. I automated deployment using GitHub integration and documented the entire journey including troubleshooting production issues."
 
 ### Technical Highlights
 - **Full Development Lifecycle:** Concept → Code → Testing → Deployment → Production
@@ -362,39 +359,10 @@ flask-sql-aws-project/
 
 ## 📞 Connect With Me
 
-**LinkedIn:** [Your LinkedIn URL]  
+**LinkedIn:** https://www.linkedin.com/in/laxman-barre-073735256/
 **GitHub:** [@LaxmanByte](https://github.com/LaxmanByte)  
-**Email:** your.email@example.com  
-**Portfolio:** [Your Portfolio Website]
 
----
 
-## ⭐ Project Highlights
-
-- ✅ **AWS Production Deployment** - Live application accessible 24/7
-- ✅ **Clean, Documented Codebase** - Professional code quality
-- ✅ **Real-World Troubleshooting** - Problem-solving journey documented
-- ✅ **Professional Documentation** - Complete README with visuals
-- ✅ **DevOps Practices** - Automation and cloud deployment
-
----
-
-## 🙏 Acknowledgments
-
-- **Flask Community** - For excellent documentation
-- **AWS** - For free tier EC2 instances
-- **Python Community** - For comprehensive resources
-- **GitHub** - For version control and hosting
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-<div align="center">
 
 ### If you found this project helpful, please star ⭐ the repository!
 
@@ -404,5 +372,6 @@ This project is open source and available under the MIT License.
 
 **🚀 From Code to Cloud - A Complete Journey 🚀**
 
-</div>
+
+
 
